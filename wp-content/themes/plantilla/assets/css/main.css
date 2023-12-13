@@ -10796,3 +10796,22 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+
+/* Single */
+.single #mainNav, .page #mainNav {
+  background-color: gray;
+  position: relative;
+}
+
+.box-item  {
+  display: flex;
+}
+
+.box-item img {
+  margin-right: 2rem;
+  max-width: 50px;
+}
+
+.date {
+  font-size: 12px;
+}
